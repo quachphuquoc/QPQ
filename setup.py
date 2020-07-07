@@ -67,7 +67,7 @@ print('setup')
 # )
 setup(
     name='QPQ',
-    author='Quach Phu Quoc',
+    author='QuachPhuQuoc',
     author_email='quachphuquoc@gmail.com',
     github='https://github.com/quachphuquoc',
     description=('recommender systems'),
@@ -77,7 +77,6 @@ setup(
         'Intended Audience :: Education',
         'Intended Audience :: Science/Research',
         'Topic :: Scientific/Engineering',
-        'License :: OSI Approved :: BSD License',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 2.7',
     ],
