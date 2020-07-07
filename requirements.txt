@@ -10,4 +10,4 @@ sphinx>=2.0
 sphinx_rtd_theme
 sphinxcontrib-bibtex
 folium>=0.2.1
-setuptools<=34.4.1
+#setuptools<=34.4.1
