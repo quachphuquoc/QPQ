@@ -29,4 +29,4 @@ __all__ = ['AlgoBase', 'NormalPredictor', 'BaselineOnly', 'KNNBasic',
            'Reader', 'Trainset', 'dump', 'KNNWithZScore', 'get_dataset_dir',
            'model_selection']
 
-__version__ = get_distribution('QuachPhuQuoc').version
+__version__ = get_distribution('QPQ').version
