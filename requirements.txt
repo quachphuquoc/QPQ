@@ -9,3 +9,4 @@ six>=1.10.0
 sphinx>=2.0
 sphinx_rtd_theme
 sphinxcontrib-bibtex
+folium>=0.2.1
